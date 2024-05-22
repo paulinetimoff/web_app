@@ -10,8 +10,8 @@
 
         <?php
 
-        $name="Polina";
-        $surname="Timofeyeva";
+        $name="Pauline";
+        $surname="Tsimafeyeva";
         
         
         echo "My name:\n" . $name, " " . $surname;
